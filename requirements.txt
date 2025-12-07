@@ -1,0 +1,17 @@
+# No external dependencies required!
+# This project runs on standard Python 3.7+ libraries.
+#
+# Libraries used (built-in):
+# - socket
+# - threading
+# - json
+# - time
+# - dataclasses
+# - typing
+# - enum
+# - collections
+# - hashlib
+# - gzip
+# - shutil
+# - os
+# - sys
