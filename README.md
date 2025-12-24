@@ -1,6 +1,6 @@
-# MiniDB: Distributed Key-Value Store
+# Mini Redis-cassendra: Distributed Key-Value Store
 
-MiniDB is a distributed key-value database built from scratch in Python. It is designed for educational purposes to demonstrate core concepts of distributed systems, including:
+Mini Redis-cassendra is a distributed key-value database built from scratch in Python. It is designed for educational purposes to demonstrate core concepts of distributed systems, including:
 
 - **Sharding**: Consistent hashing for data distribution.
 - **Replication**: Leader-based replication with configurable consistency levels.
